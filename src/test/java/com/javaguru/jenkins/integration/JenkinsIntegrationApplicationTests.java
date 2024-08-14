@@ -1,4 +1,4 @@
-package com.javaguru.jenkins_integration;
+package com.javaguru.jenkins.integration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
